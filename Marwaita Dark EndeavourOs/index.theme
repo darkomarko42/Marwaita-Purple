@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Marwaita Dark EndeavourOs
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Marwaita Dark EndeavourOs
+MetacityTheme=Marwaita Dark EndeavourOs
+IconTheme=Luna-Dark
+CursorTheme=Luna
+CursorSize=24
