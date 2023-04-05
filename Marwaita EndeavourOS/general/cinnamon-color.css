@@ -8,7 +8,8 @@
 .calendar-today,
 .calendar-events-date-label,
 .calendar-event-time-present,
-.grouped-window-list-thumbnail-menu .item-box
+.grouped-window-list-thumbnail-menu .item-box,
+#Tooltip
 { font-weight: bold;}
 
 .calendar-day-heading,
@@ -181,7 +182,7 @@ StButton:checked.radiobutton
 #panel,
 .grouped-window-list-badge,
 .sound-player-overlay
-{background-color: rgba(10,77,159, 0.8);}
+{background-color: rgba(94,65,171, 0.8);}
 
 .menu,
 .popup-combo-menu,

@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Marwaita Color EndeavourOs
+Name=Marwaita Alt EndeavourOS
 Comment=GTK Theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Marwaita Color EndeavourOs
-MetacityTheme=Marwaita Color EndeavourOs
+GtkTheme=Marwaita Alt EndeavourOS
+MetacityTheme=Marwaita Alt EndeavourOS
 IconTheme=Marwaita
 CursorTheme=Marwaita
 CursorSize=24
