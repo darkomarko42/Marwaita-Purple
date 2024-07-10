@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Marwaita-s-Purple
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Marwaita-s-Purple
+MetacityTheme=Marwaita-s-Purple
+IconTheme=Marwaita
+CursorTheme=Marwaita
+CursorSize=24
